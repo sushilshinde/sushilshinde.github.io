@@ -1,5 +1,6 @@
 {
-	"name": "",
+	"short_name": "Sushil's Github App",
+	"name": "Sushil's Github App",
 	"icons": [
 		{
 			"src": "\/android-chrome-192x192.png",
